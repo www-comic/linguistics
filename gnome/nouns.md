@@ -14,3 +14,4 @@ Yep, you guessed it. We have nouns here too, take a look. There are only a few i
 11. pakaqa - idiot
 12. kashige - thing, object, something
 13. keshige - person, somebody, someone
+14. geshu* - dude, guy, bro, someone (informal)
