@@ -15,3 +15,10 @@ Yep, you guessed it. We have nouns here too, take a look. There are only a few i
 12. kashige* - thing, object, something
 13. keshige* - person, somebody, someone
 14. geshu* - dude, guy, bro, someone (informal)
+15. zicheqa - second
+16. nicheqa - minute
+17. focheqa - hour
+18. gipecha - day
+19. kipecha - week
+20. nopecha - month
+21. ichenqa - year
